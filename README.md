@@ -21,6 +21,7 @@ Setelah mengunduh data dari Instagram:
   
 🎯 Hasil Output
 Jika ada yang unfollow, 
+
 jalankan skrip di Bash Terminal di VS Code, maka akan muncul daftar seperti ini:
 
 🚨 Unfollowers:
