@@ -18,6 +18,7 @@ Setelah mengunduh data dari Instagram:
 1.	Unduh data Instagram dan simpan followers_1.json dan following.json ke folder yang sama dengan main.py
 2.	Jalankan skrip Python di terminal:
 -	python main.py
+  
   🎯 Hasil Output
 Jika ada yang unfollow, jalankan skrip di Bash Terminal di VS Code, maka akan muncul daftar seperti ini:
 
