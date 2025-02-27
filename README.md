@@ -20,9 +20,8 @@ Setelah mengunduh data dari Instagram:
 -	python main.py
   
 🎯 Hasil Output
-Jika ada yang unfollow, 
-
-jalankan skrip di Bash Terminal di VS Code, maka akan muncul daftar seperti ini:
+- Jika ada yang unfollow, 
+- jalankan skrip di Bash Terminal di VS Code, maka akan muncul daftar seperti ini:
 
 🚨 Unfollowers:
 - https://www.instagram.com/f4ttimmzra
