@@ -1,5 +1,5 @@
 📥 Cara Mengunduh & Mengecek Unfollowers Instagram
-📌 Unduh Data Instagram via Aplikasi (Mobile)
+📌 Unduh Data Instagram via laptop/PC
 1.	Buka aplikasi Instagram
 2.	Masuk ke Profil kamu (klik foto profil di kanan bawah)
 3.	Buka Menu (ikon tiga garis di kanan atas)
@@ -23,6 +23,7 @@ Setelah mengunduh data dari Instagram:
 Jika ada yang unfollow, jalankan skrip di Bash Terminal di VS Code, maka akan muncul daftar seperti ini:
 
 🚨 Unfollowers:
+
 https://www.instagram.com/f4ttimmzra
 
 
